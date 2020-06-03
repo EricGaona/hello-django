@@ -26,7 +26,7 @@ SECRET_KEY = 'd-gnuj5vx@vol-v8v7)x94xm%z*h7vq7jj!dn_73$)7bk!=t5_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://simplo-django-todo-2.herokuapp.com/']
+ALLOWED_HOSTS = ['simplo-django-todo-2.herokuapp.com']
 
 
 # Application definition
